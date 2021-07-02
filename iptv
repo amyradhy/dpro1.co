@@ -645,3 +645,7 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="music", RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="",FOX MOVIE
+http://185.180.221.194:8277/streams/d/Foxmovie/playlist.m3u8
+
+
