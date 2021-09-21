@@ -20,9 +20,7 @@ http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 http://185.180.221.194:8277/streams/d/Ria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
-http://190.2.133.47:8277/streams/d/Warna/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_ott.mpd
 
 #EXTINF:0  tvg-id="" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Malaysia",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
@@ -478,10 +476,7 @@ http://185.180.221.194:8277/streams/d/Arena/playlist.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="",SUPERSPORT
-http://50.7.161.82:8277/streams/d/assp1_pye/playlist.m3u8
-http://198.16.106.61:8277/streams/d/Assp1/playlist.m3u8
-http://50.7.161.82:8277/streams/d/Assp1/playlist.m3u8
-http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/146068
+https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
 
 #EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="",SUPERSPORT 2
 http://50.7.161.82:8277/streams/d/assp2_pye/playlist.m3u8
