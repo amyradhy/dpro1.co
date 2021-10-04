@@ -20,7 +20,7 @@ http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 http://185.180.221.194:8277/streams/d/Ria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_ott.mpd
+http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 
 #EXTINF:0  tvg-id="" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Malaysia",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
